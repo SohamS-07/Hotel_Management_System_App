@@ -4,3 +4,5 @@ name:soham | room no:1 | duration:5 | revenue:88494.1
 name:soham | room no:1 | duration:3 | revenue:53096.46
 name:sood | room no:1 | duration:1 | revenue:17698.82
 name:soham | room no:1 | duration:1 | revenue:17698.82
+name:anuj | room no:2 | duration:2 | revenue:35397.64
+name:soham | room no:16 | duration:4 | revenue:28315.28
