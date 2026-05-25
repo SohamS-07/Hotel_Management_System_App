@@ -8,7 +8,7 @@ A basic hotel management system built using java having a frontend made using ja
 
 ## Booking System
 
-![Bookings](images/Booking_tab.png)
+![Bookings](images/Bookings_tab.png)
 ![Check-In](images/Check-In.png)
 ![Check-Out](images/Check-Out.png)
 
